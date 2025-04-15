@@ -64,3 +64,7 @@ This is a **Customer Relationship Management (CRM)** web application built using
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## 📧 Contact
+
+For any inquiries, contact: **abdulmoizniazi@gmail.com**
+
