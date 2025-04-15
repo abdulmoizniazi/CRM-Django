@@ -24,7 +24,7 @@ This is a **Customer Relationship Management (CRM)** web application built using
 1. **Clone the repository**
    ```bash
    git clone https://github.com/abdulmoizniazi/CRM-Django.git
-   cd CRM-Django
+   cd backend
    ```
 
 2. **Create a virtual environment**
