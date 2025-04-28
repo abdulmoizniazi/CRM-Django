@@ -71,4 +71,3 @@ For any inquiries, contact: **abdulmoizniazi@gmail.com**
 ---
 
 **Made with ❤️ by Moiz Khan**
-```
